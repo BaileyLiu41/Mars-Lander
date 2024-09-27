@@ -1,0 +1,5 @@
+﻿  lander.cpp
+C:\Users\baile\OneDrive\Documents\lander\lander.cpp(40,26): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\baile\OneDrive\Documents\lander\lander.cpp(106,44): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\baile\OneDrive\Documents\lander\lander.cpp(106,77): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  lander.vcxproj -> C:\Users\baile\source\repos\lander\x64\Debug\lander.exe
